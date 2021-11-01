@@ -18,7 +18,7 @@ window.autologininfos = JSON.parse(config.getItem("autologininfos"));
 
 function patchCSS() {
   var link = document.createElement("link");
-  link.href = "https://docsystem.xyz/pronotetools/tools.css";
+  link.href = "https://lounge-lizard-dev.github.io/Tools-for-Pronote/tools.css";
   link.type = "text/css";
   link.rel = "stylesheet";
   document.getElementsByTagName("head")[0].appendChild(link);
