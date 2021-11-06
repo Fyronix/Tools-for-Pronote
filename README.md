@@ -14,5 +14,5 @@ var s=document.createElement("script");s.src="https://lounge-lizard-dev.github.i
 Css file : 
 ----
 ```js
-var s=document.createElement("style")h;s.src="ttps://lounge-lizard-dev.github.io/Tools-for-Pronote/tools.css";document.querySelector("head").appendChild(s);
+var s=document.createElement("style")h;s.src="https://lounge-lizard-dev.github.io/Tools-for-Pronote/tools.css";document.querySelector("head").appendChild(s);
 ```
